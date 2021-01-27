@@ -109,20 +109,23 @@ Existeixen els **frameworks**, que són  un conjunt de les millors pràctiques d
 El model de qualitat de McCall defineix 11 factors de qualitat, aquests s'agrupen en 3 ambits:
 
 - Operació del producte
-      Correció
-      Fiabilitat
-      Eficiència
-      Seguretat
-      Facilitat d'ús
+        
+        Correció
+        Fiabilitat
+        Eficiència
+        Seguretat
+        Facilitat d'ús
 - Revisió del producte
-      Mantenibilitat
-      Flexibilitat
-      Facilitat de proves
+     
+        Mantenibilitat
+        Flexibilitat
+        Facilitat de proves
 
 - Transició del producte
-      Portabilitat
-      Reusabailitat
-      Interopreativitat
+        
+        Portabilitat
+        Reusabailitat
+        Interopreativitat
 
 Exemple:
 
